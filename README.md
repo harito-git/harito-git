@@ -9,7 +9,9 @@
 
 💻 Technical Stack:
 
-Languages & Frameworks: Python, Java, C, HTML, CSS, JS, React, Flask, TypeScript, Pygame, UML, PyTorch, Node.js, TailwindCSS, Flask Developer Tools: Git, VS Code, Eclipse, AutoCAD, Office365, Google Gemini API, OpenAI API, ChatGPT, Github Copilot, Google Gemini Certifications & Training: IBM AI Fundamentals, NVIDIA GenAI Explained, Coursera Crash Course on Python
+Languages & Frameworks: Python, Java, React, Flask, TypeScript 
+Developer Tools: Git, VS Code, Eclipse, Cursor, Office365, Google Gemini API, OpenAI API, Github Copilot, Google Gemini 
+Certifications & Training: IBM AI Fundamentals, NVIDIA GenAI Explained, Coursera Crash Course on Python
 Feel free to reach out and collaborate on projects, or anything in general! 😀
 Hobbies: Biking, Soccer, Basketball
 
