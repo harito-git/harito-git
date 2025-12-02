@@ -14,5 +14,6 @@ Developer Tools: Git, VS Code, Eclipse, Cursor, Office365, Google Gemini API, Op
 Certifications & Training: IBM AI Fundamentals, NVIDIA GenAI Explained, Coursera Crash Course on Python
 Feel free to reach out and collaborate on projects, or anything in general! 😀
 Hobbies: Biking, Soccer, Basketball
+Achievements: 1st Place CSHub Local Hack Day, Best Use of Google Gemini
 
 
