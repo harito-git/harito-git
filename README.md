@@ -9,7 +9,7 @@
 
 💻 Technical Stack:
 
-Languages & Frameworks: Python, Java, React, Flask
+Languages & Frameworks: Python, Java, React, Flask, SQL
 Developer Tools: Git, VS Code, Eclipse, Cursor, Office365, Google Gemini API, OpenAI API, Github Copilot, Google Gemini 
 Certifications & Training: IBM AI Fundamentals, NVIDIA GenAI Explained, Coursera Crash Course on Python
 Feel free to reach out and collaborate on projects, or anything in general! 😀
