@@ -19,3 +19,5 @@ Hobbies: Biking, Soccer, Basketball
 Achievements: 1st Place CSHub Local Hack Day, Best Use of Google Gemini
 
 
+<img width="398" height="546" alt="Screenshot 2026-04-25 at 11 09 57 PM" src="https://github.com/user-attachments/assets/74979cbf-c13f-4097-9cac-c9ea80637311" />
+
