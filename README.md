@@ -18,7 +18,6 @@ Feel free to reach out and collaborate on projects, or anything in general! 😀
 Hobbies: Biking, Soccer, Basketball
 Achievements: 1st Place CSHub Local Hack Day, Best Use of Google Gemini
 
-GitHub Stats: 
 [![Harit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harito-git)](https://github.com/anuraghazra/github-readme-stats)
 
 
