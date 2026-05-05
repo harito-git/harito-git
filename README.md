@@ -18,5 +18,5 @@ Feel free to reach out and collaborate on projects, or anything in general! 😀
 Hobbies: Biking, Soccer, Basketball
 Achievements: 1st Place CSHub Local Hack Day, Best Use of Google Gemini
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harito-git)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-1-five.vercel.app?user=harito-git&theme=highcontrast)](https://git.io/streak-stats)
 
